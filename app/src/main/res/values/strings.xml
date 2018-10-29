@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="textBill">Bill Total</string>
+    <string name="tvTip">Tip %</string>
+    <string name="rb10">10%</string>
+    <string name="rb20">15%</string>
+    <string name="rb18">18%</string>
+    <string name="rbCustom">Custom</string>
+    <string name="tvCustom">Custom</string>
+    <string name="tvCustomTip">25%</string>
+    <string name="textTip">Tip</string>
+    <string name="tvTipdefault">0.00</string>
+    <string name="tvTotal">Total</string>
+    <string name="tvTotaldefault">0.00</string>
+    <string name="btnExit">Exit</string>
+    <string name="hintBill">Enter Bill Value</string>
+    <string name="seekBarCustom"></string>
+</resources>
